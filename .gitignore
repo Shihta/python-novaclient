@@ -16,3 +16,5 @@ ChangeLog
 novaclient/versioninfo
 *.egg
 *egg-info
+.project
+.pydevproject
